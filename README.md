@@ -1,4 +1,7 @@
- About Me:
-I'm Sandhya Kumari, a B.Tech CSE student passionate about coding and building real-world projects. I love frontend development and I'm currently learning full-stack development using the MERN stack. I'm enthusiastic, curious, and believe in learning through hands-on creation rather than theory. Always excited to turn ideas into meaningful, user-friendly products.
+ Hi everyone,
+ 
+I'm Sandhya, a final-year B.Tech Computer Science student specializing in Data Science, focused on building full-stack web applications and solving real-world problems through code.
 
+I primarily work with React, JavaScript, TypeScript, Node.js, Express, and MongoDB. I enjoy building practical projects, exploring modern web technologies, and continuously improving my development and problem-solving skills.
 
+Currently, I'm strengthening my full-stack development skills and working on projects that help me apply real-world development practices.
